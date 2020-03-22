@@ -13,7 +13,7 @@ module.exports = {
 			commit: env.COMMIT_REF,
 			build: env.BUILD_ID,
 			buildUrl: env.DEPLOY_URL,
-			branch: env.BRANCH,
+			branch: env.HEAD,
 			pr: env.REVIEW_ID,
 			isPr,
 		};
