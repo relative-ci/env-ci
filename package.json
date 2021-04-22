@@ -1,7 +1,7 @@
 {
   "name": "@relative-ci/env-ci",
   "description": "Get environment variables exposed by CI services",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "author": "Pierre Vanduynslager (https://github.com/pvdlg)",
   "ava": {
     "files": [
