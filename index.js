@@ -27,6 +27,7 @@ const services = {
   shippable: require('./services/shippable'),
   teamcity: require('./services/teamcity'),
   travis: require('./services/travis'),
+  vercel: require('./services/vercel'),
   vsts: require('./services/vsts'),
   wercker: require('./services/wercker'),
 };
